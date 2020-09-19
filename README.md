@@ -1,18 +1,16 @@
 <h1 align="center">Anubhav Sharma</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anubhavsharma430" alt="anubhavsharma430" /> </p>
 
 <h2 align="center">Contact Me</h2>
 <p align="center">
-  <a href="https://twitter.com/anubhav9199" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-@Anubhav_Sharma-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anubhav9199" alt="anubhavsharma430" height="20" width="100" /></a>
-  <a href="https://www.linkedin.com/in/anubhav-sharma-as/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-sharma-as/" alt="anubhavsharma430" height="20" width="100" /></a>
-  <a href="mailto:anubhavsharma9199@gmail.com" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-anubhavsharma9199@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anubhavsharma9199@gmail.com" alt="anubhavsharma430" height="20" width="100" /></a><br/>
-  <a href="https://www.instagram.com/_anubhav_._/" target="blank" align="center"><img align="center" src="http://img.shields.io/badge/-_anubhav_._-rgb(255,105,180)?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_anubhav_._" alt="anubhavsharma430" height="20" width="100" /></a>
-  <a href="https://www.facebook.com/anubhav9199/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.facebook.com/anubhav9199/" alt="anubhavsharma430" height="20" width="100" /></a>
+  <a href="https://twitter.com/anubhav9199" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-@Anubhav_Sharma-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anubhav9199" alt="anubhavsharma430" height="50" width="150" /></a>
+  &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/anubhav-sharma-as/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-sharma-as/" alt="anubhavsharma430" height="50" width="150" /></a>
+  &nbsp; &nbsp;
+  <a href="mailto:anubhavsharma9199@gmail.com" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-anubhavsharma9199@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anubhavsharma9199@gmail.com" alt="anubhavsharma430" height="50" width="150" /></a><br/>
+  <a href="https://www.instagram.com/_anubhav_._/" target="blank" align="center"><img align="center" src="http://img.shields.io/badge/-_anubhav_._-rgb(255,105,180)?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_anubhav_._" alt="anubhavsharma430" height="50" width="150" /></a>
+  &nbsp; &nbsp;
+  <a href="https://www.facebook.com/anubhav9199/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.facebook.com/anubhav9199/" alt="anubhavsharma430" height="50" width="150" /></a>
 </p>
-
-* [![Twitter Badge](https://img.shields.io/badge/-@Anubhav_Sharma-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anubhav9199))](https://twitter.com/anubhav9199) 
-* [![Linkedin Badge](https://img.shields.io/badge/-Anubhav_Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-sharma-as/)](https://www.linkedin.com/in/anubhav-sharma-as/)
-* [![Gmail Badge](https://img.shields.io/badge/-anubhavsharma9199@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anubhavsharma9199@gmail.com)](mailto:anubhavsharma9199@gmail.com)
 
 ---
 ## Heya Tech Geeks 👋,           
@@ -47,25 +45,38 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
 - 💬 Share me **Problem**(Presonal or Technical) for solution!
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/918824897845)
 - ⚡ Fun fact: I love meeting new people and learning from them , doesn't matter younger or older then me 
-- 💬 Ping Me about #AI (Paradise where i live), **#Python**, **#Machine_Learning**, **#Deep_Learning** ,**#Data_Science**, **#Neural_Networks**, **#Computer_Vision**, ***#Natural_Language_Processing*** and **anything** you like.
+- 💬 Ping Me about #AI (Paradise where i live), **#Python**, **#Machine_Learning**, **#Deep_Learning**, **#Data_Science**, **#Neural_Networks**, **#Computer_Vision**, **#Natural_Language_Processing** and **anything** you like.
 ---
-<hr/>
+
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  &nbsp;
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  &nbsp;
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  &nbsp;
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  &nbsp; 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  &nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  &nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  &nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  &nbsp;
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  &nbsp; 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  &nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </p>
 <hr/>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavsharma430&layout=compact&hide=html" alt="anubhavsharma430" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=anubhavsharma430&show_icons=true" alt="anubhavsharma430">
+  <img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavsharma430&layout=compact&hide=html" alt="anubhavsharma430" />
+  &nbsp; &nbsp;
+  <img align="justify" src="https://github-readme-stats.vercel.app/api?username=anubhavsharma430&show_icons=true" alt="anubhavsharma430">
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anubhavsharma430" alt="anubhavsharma430" /> </p>
