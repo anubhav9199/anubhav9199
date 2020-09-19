@@ -6,11 +6,13 @@
   &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/anubhav-sharma-as/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-sharma-as/" alt="anubhavsharma430" height="30" width="150" /></a>
   &nbsp; &nbsp;
-  <a href="mailto:anubhavsharma9199@gmail.com" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-anubhavsharma9199@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anubhavsharma9199@gmail.com" alt="anubhavsharma430" height="30" width="150" /></a><br/>
+  <a href="mailto:anubhavsharma9199@gmail.com" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anubhavsharma9199@gmail.com" alt="anubhavsharma430" height="30" width="150" /></a><br/>
   <br/>
   <a href="https://www.instagram.com/_anubhav_._/" target="blank" align="center"><img align="center" src="http://img.shields.io/badge/-_anubhav_._-rgb(255,105,180)?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_anubhav_._" alt="anubhavsharma430" height="30" width="150" /></a>
   &nbsp; &nbsp;
-  <a href="https://www.facebook.com/anubhav9199/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.facebook.com/anubhav9199/" alt="anubhavsharma430" height="30" width="150" /></a>
+  <a href="https://www.facebook.com/anubhav9199/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/anubhav9199/" alt="anubhavsharma430" height="30" width="150" /></a>
+  &nbsp; &nbsp;
+  <a href="https://wa.me/918824897845" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(77,194,71)?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/918824897845/" alt="anubhavsharma430" height="30" width="150" /></a>
 </p>
 
 ---
@@ -77,7 +79,9 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
 <hr/>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavsharma430&layout=compact&hide=html" alt="anubhavsharma430" />
-  &nbsp; &nbsp;
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=anubhavsharma430&show_icons=true" alt="anubhavsharma430">
+  &nbsp;
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anubhavsharma430&show_icons=true" alt="anubhavsharma430">
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anubhavsharma430" alt="anubhavsharma430" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=anubhavsharma430" alt="anubhavsharma430" /> 
+</p>
