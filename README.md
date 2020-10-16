@@ -84,5 +84,6 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
 </p>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=anubhavsharma430" alt="anubhavsharma430" />
+  <br/>
   <img src="https://profile-counter.glitch.me/anubhavsharma430/count.svg" alt="anubhavsharma430" />
 </p>
