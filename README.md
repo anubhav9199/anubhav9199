@@ -83,5 +83,6 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavsharma430&show_icons=true" alt="anubhavsharma430">
 </p>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=anubhavsharma430" alt="anubhavsharma430" /> 
+  <img src="https://komarev.com/ghpvc/?username=anubhavsharma430" alt="anubhavsharma430" />
+  <img src="https://profile-counter.glitch.me/anubhavsharma430/count.svg" alt="anubhavsharma430" />
 </p>
