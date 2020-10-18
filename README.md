@@ -15,7 +15,11 @@
   <a href="https://wa.me/918824897845" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(77,194,71)?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/918824897845/" alt="anubhavsharma430" height="30" width="150" /></a>
   <br/>
   <br/>
+  <a href="https://www.kaggle.com/anubhavsharma/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(51,171,255)?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/anubhavsharma/"alt="%22anubhavsharma430" height="30" width="150" /></a>
+  &nbsp; &nbsp;
   <a href="https://dev.to/anubhavsharma" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(0,0,0)?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/anubhavsharma/" alt="anubhavsharma430" height="30" width="150" /></a>
+  &nbsp; &nbsp;
+  <a href="https://stackoverflow.com/users/13104627/anubhav-sharma/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(239,130,54)?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13104627/anubhav-sharma/" alt="%22anubhavsharma430" height="30" width="150" /></a>
 </p>
 
 ---
