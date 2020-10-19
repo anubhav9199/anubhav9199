@@ -85,9 +85,14 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
 </p>
 <hr/>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavsharma430&layout=compact&hide=html" alt="anubhavsharma430" />
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavsharma430&show_icons=true" alt="anubhavsharma430">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=anubhavsharma430&column=7"/>
+  </a>
+</p>
+<hr/>
+<p>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavsharma430&layout=compact&hide=html" alt="anubhavsharma430" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anubhavsharma430&show_icons=true" alt="anubhavsharma430">
 </p>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=anubhavsharma430" alt="anubhavsharma430" />
