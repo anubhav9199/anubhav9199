@@ -1,5 +1,5 @@
 <h1 align="center">Anubhav Sharma</h1>
-
+<hr/>
 <h2 align="center">Contact Me</h2>
 <p align="center">
   <a href="https://twitter.com/anubhav9199" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-@Anubhav_Sharma-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anubhav9199" alt="anubhavsharma430" height="30" width="150" /></a>
@@ -15,9 +15,12 @@
   <a href="https://wa.me/918824897845" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(77,194,71)?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/918824897845/" alt="anubhavsharma430" height="30" width="150" /></a>
   <br/>
   <br/>
-  <a href="https://www.kaggle.com/anubhavsharma/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(51,171,255)?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/anubhavsharma/"alt="%22anubhavsharma430" height="30" width="150" /></a>
-  &nbsp; &nbsp;
   <a href="https://dev.to/anubhavsharma" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(0,0,0)?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/anubhavsharma/" alt="anubhavsharma430" height="30" width="150" /></a>
+</p>
+<hr/>
+<h2 align="center">My Work</h2>
+<p align="center">
+  <a href="https://www.kaggle.com/anubhavsharma/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(51,171,255)?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/anubhavsharma/"alt="%22anubhavsharma430" height="30" width="150" /></a>
   &nbsp; &nbsp;
   <a href="https://stackoverflow.com/users/13104627/anubhav-sharma/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(239,130,54)?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13104627/anubhav-sharma/" alt="%22anubhavsharma430" height="30" width="150" /></a>
 </p>
@@ -86,13 +89,13 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
 <hr/>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=anubhavsharma430&column=7"/>
+    <img align="center" width=800 src="https://github-profile-trophy.vercel.app/?username=anubhavsharma430&column=7"/>
   </a>
 </p>
 <hr/>
 <p>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavsharma430&layout=compact&hide=html" alt="anubhavsharma430" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anubhavsharma430&show_icons=true" alt="anubhavsharma430">
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=anubhavsharma430&show_icons=true" alt="anubhavsharma430">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavsharma430&layout=compact&hide=html" alt="anubhavsharma430" />
 </p>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=anubhavsharma430" alt="anubhavsharma430" />
