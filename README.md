@@ -93,7 +93,7 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
   </a>
 </p>
 <hr/>
-<p align="center">
+<p>
   <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=anubhavsharma430&show_icons=true" alt="anubhavsharma430">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavsharma430&layout=compact&hide=html" alt="anubhavsharma430" />
 </p>
