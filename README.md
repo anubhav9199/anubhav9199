@@ -169,6 +169,6 @@ display: inline-block;
 .column
 {
 display: inline-block;
-padding: 10px 10px 10px 10px;
+padding: 6px 6px 6px 6px;
 }
 </style>
