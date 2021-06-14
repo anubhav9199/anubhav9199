@@ -143,7 +143,6 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
     &nbsp;&nbsp;&nbsp;
   </div>
 </div>
-</p>
 <hr/>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
