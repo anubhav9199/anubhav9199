@@ -1,3 +1,14 @@
+<style type="text/css">
+.row
+{
+display: inline-block;
+}
+.column
+{
+display: inline-block;
+padding: 6px 6px 6px 6px;
+}
+</style>
 <h1 align="center">Anubhav Sharma</h1>
 <hr/>
 <h2 align="center">Contact Me</h2>
@@ -61,7 +72,7 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
 - ⚡ Fun fact: I love meeting new people and learning from them , doesn't matter younger or older then me 
 - 💬 Ping Me about **#AI** (Paradise where i live), **#Python**, **#Machine_Learning**, **#Deep_Learning**, **#Data_Science**, **#Neural_Networks**, **#Computer_Vision**, **#Natural_Language_Processing** and **anything** you like.
 ---
-
+<div>
 <h1 align="center">Technologies, Its in my blood</h1>
 <div class="row">
   <div align="center" class="column">
@@ -143,6 +154,7 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
     &nbsp;&nbsp;&nbsp;
   </div>
 </div>
+</div>
 <hr/>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -159,15 +171,3 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
   <br/>
   <img src="https://profile-counter.glitch.me/anubhavsharma430/count.svg" alt="anubhavsharma430" />
 </p>
-
-<style type="text/css">
-.row
-{
-display: inline-block;
-}
-.column
-{
-display: inline-block;
-padding: 6px 6px 6px 6px;
-}
-</style>
