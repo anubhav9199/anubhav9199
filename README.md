@@ -1,14 +1,4 @@
-<style type="text/css">
-.row
-{
-display: inline-block;
-}
-.column
-{
-display: inline-block;
-padding: 6px 6px 6px 6px;
-}
-</style>
+<link rel="stylesheet" type="text/css" href="style.css" />
 <h1 align="center">Anubhav Sharma</h1>
 <hr/>
 <h2 align="center">Contact Me</h2>

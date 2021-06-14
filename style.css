@@ -1,0 +1,8 @@
+.row {
+    display: inline-block;
+}
+
+.column {
+    display: inline-block;
+    padding: 6px 6px 6px 6px;
+}
