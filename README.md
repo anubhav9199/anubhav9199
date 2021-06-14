@@ -3,7 +3,7 @@
 <hr/>
 <h2 align="center">Contact Me</h2>
 <p align="center">
-  <a href="https://twitter.com/anubhav9199" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-@Anubhav_Sharma-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anubhav9199" alt="anubhavsharma430" height="30" width="150" /></a>
+  <a href="https://twitter.com/anubhav9199" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anubhav9199" alt="anubhavsharma430" height="30" width="150" /></a>
   &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/anubhav-sharma-as/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-sharma-as/" alt="anubhavsharma430" height="30" width="150" /></a>
   &nbsp; &nbsp;
@@ -65,7 +65,7 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
 <div>
 <h1 align="center">Technologies, Its in my blood</h1>
 <div style="display: inline-block;">
-  <div align="center" style="display: inline-block;padding: 6px 6px 6px 6px;">
+  <div style="display: inline-block;padding: 6px 6px 6px 6px;">
     <h2 align="center">Langauages</h2>
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     &nbsp;&nbsp;
@@ -73,14 +73,13 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
     &nbsp;&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </br></br>
-    &nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     &nbsp;&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     &nbsp;&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   </div>
-  <div align="center" style="display: inline-block;padding: 6px 6px 6px 6px;">
+  <div style="display: inline-block;padding: 6px 6px 6px 6px;">
     <h2 align="center">Version Control</h2>
     <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     &nbsp;&nbsp;
@@ -88,46 +87,48 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
     &nbsp;&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
     </br></br>
-    &nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </div>
   <!-- Operating System -->
-  <div align="center" style="display: inline-block;padding: 6px 6px 6px 6px;">
+  <div style="display: inline-block;padding: 6px 6px 6px 6px;">
     <h2 align="center">Operating System</h2>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
     </br></br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="MacintoshOS" width="40" height="40"/>
   </div>
 </div>
 <div style="display: inline-block;">
-  <div align="center" style="display: inline-block;padding: 6px 6px 6px 6px;">
+  <div style="display: inline-block;padding: 6px 6px 6px 6px;">
     <h2 align="center">Databases</h2>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-    &nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </br></br>
-    &nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MacintoshOS" width="40" height="40"/>
   </div>
-  <div align="center" style="display: inline-block;padding: 6px 6px 6px 6px;">
+  <div style="display: inline-block;padding: 6px 6px 6px 6px;">
     <h2 align="center">Major Libraries</h2>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-    &nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
     </br></br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-    &nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="pytorch" width="40" height="40"/>
   </div>
-  <div align="center" style="display: inline-block;padding: 6px 6px 6px 6px;">
+  <div style="display: inline-block;padding: 6px 6px 6px 6px;">
     <h2 align="center">Others</h2>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
     &nbsp;&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
@@ -135,7 +136,7 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
     &nbsp;&nbsp;&nbsp;
     </br></br>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
     &nbsp;&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uwsgi/uwsgi-original.svg" alt="WSGI" width="40" height="40"/>
