@@ -8,7 +8,7 @@
   &nbsp; &nbsp;
   <a href="mailto:anubhavsharma9199@gmail.com" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anubhavsharma9199@gmail.com" alt="anubhavsharma430" height="30" width="150" /></a><br/>
   <br/>
-  <a href="https://www.instagram.com/_anubhav_._/" target="blank" align="center"><img align="center" src="http://img.shields.io/badge/-_anubhav_._-rgb(255,105,180)?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_anubhav_._" alt="anubhavsharma430" height="30" width="150" /></a>
+  <a href="https://www.instagram.com/_anubhav_._/" target="blank" align="center"><img align="center" src="http://img.shields.io/badge/-Anubhav Sharma-rgb(255,105,180)?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_anubhav_._" alt="anubhavsharma430" height="30" width="150" /></a>
   &nbsp; &nbsp;
   <a href="https://www.facebook.com/anubhav9199/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/anubhav9199/" alt="anubhavsharma430" height="30" width="150" /></a>
   &nbsp; &nbsp;
@@ -53,38 +53,96 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
 - ⚡ I’m currently Working over My Secret Project ***(#I_am_Iron_Man)***.
 - 👯 And Many More...
 
-# Hello World!! 🤔
+<h1 align="center">Hello World!! 🤔</h1>
+
 - 💬 Ask me about **anything** and **everything**!
 - 💬 Share me **Problem**(Presonal or Technical) for solution!
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/918824897845)
 - ⚡ Fun fact: I love meeting new people and learning from them , doesn't matter younger or older then me 
-- 💬 Ping Me about #AI (Paradise where i live), **#Python**, **#Machine_Learning**, **#Deep_Learning**, **#Data_Science**, **#Neural_Networks**, **#Computer_Vision**, **#Natural_Language_Processing** and **anything** you like.
+- 💬 Ping Me about **#AI** (Paradise where i live), **#Python**, **#Machine_Learning**, **#Deep_Learning**, **#Data_Science**, **#Neural_Networks**, **#Computer_Vision**, **#Natural_Language_Processing** and **anything** you like.
 ---
 
-<p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  &nbsp; 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  &nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  &nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  &nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  &nbsp; 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  &nbsp;
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<h1 align="center">Technologies, Its in my blood</h1>
+<div class="row">
+  <div align="center" class="column">
+    <h2 align="center">Langauages</h2>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    &nbsp;&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go Lang" width="40" height="40"/>
+    &nbsp;&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </br></br>
+    &nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    &nbsp;&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    &nbsp;&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  </div>
+  <div align="center" class="column">
+    <h2 align="center">Version Control</h2>
+    <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    &nbsp;&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    &nbsp;&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
+    </br></br>
+    &nbsp;&nbsp;
+    <img align="center" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </div>
+  <!-- Operating System -->
+  <div align="center" class="column">
+    <h2 align="center">Operating System</h2>
+    &nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    &nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+    </br></br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="MacintoshOS" width="40" height="40"/>
+  </div>
+</div>
+<div class="row">
+  <div align="center" class="column">
+    <h2 align="center">Databases</h2>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+    &nbsp;&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </br></br>
+    &nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MacintoshOS" width="40" height="40"/>
+  </div>
+  <div align="center"class="column">
+    <h2 align="center">Major Libraries</h2>
+    <img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+    &nbsp;&nbsp;
+    <img align="center" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+    </br></br>
+    <img align="center" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+    &nbsp;&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="pytorch" width="40" height="40"/>
+  </div>
+  <div align="center" class="column">
+    <h2 align="center">Others</h2>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+    &nbsp;&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+    &nbsp;&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
+    &nbsp;&nbsp;&nbsp;
+    </br></br>
+    &nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+    &nbsp;&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uwsgi/uwsgi-original.svg" alt="WSGI" width="40" height="40"/>
+    &nbsp;&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" alt="The Algorithms" width="40" height="40"/>
+    &nbsp;&nbsp;&nbsp;
+  </div>
+</div>
 </p>
 <hr/>
 <p align="center">
@@ -102,3 +160,15 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
   <br/>
   <img src="https://profile-counter.glitch.me/anubhavsharma430/count.svg" alt="anubhavsharma430" />
 </p>
+
+<style type="text/css">
+.row
+{
+display: inline-block;
+}
+.column
+{
+display: inline-block;
+padding: 10px 10px 10px 10px;
+}
+</style>
