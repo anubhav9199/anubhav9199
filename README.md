@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="style.css" />
+<!-- <link rel="stylesheet" type="text/css" href="style.css" /> -->
 <h1 align="center">Anubhav Sharma</h1>
 <hr/>
 <h2 align="center">Contact Me</h2>
@@ -64,8 +64,8 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
 ---
 <div>
 <h1 align="center">Technologies, Its in my blood</h1>
-<div class="row">
-  <div align="center" class="column">
+<div style="display: inline-block;">
+  <div align="center" style="display: inline-block;padding: 6px 6px 6px 6px;">
     <h2 align="center">Langauages</h2>
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     &nbsp;&nbsp;
@@ -80,7 +80,7 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
     &nbsp;&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   </div>
-  <div align="center" class="column">
+  <div align="center" style="display: inline-block;padding: 6px 6px 6px 6px;">
     <h2 align="center">Version Control</h2>
     <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     &nbsp;&nbsp;
@@ -92,7 +92,7 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
     <img align="center" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </div>
   <!-- Operating System -->
-  <div align="center" class="column">
+  <div align="center" style="display: inline-block;padding: 6px 6px 6px 6px;">
     <h2 align="center">Operating System</h2>
     &nbsp;&nbsp;&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -103,8 +103,8 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="MacintoshOS" width="40" height="40"/>
   </div>
 </div>
-<div class="row">
-  <div align="center" class="column">
+<div style="display: inline-block;">
+  <div align="center" style="display: inline-block;padding: 6px 6px 6px 6px;">
     <h2 align="center">Databases</h2>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
@@ -115,7 +115,7 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
     &nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MacintoshOS" width="40" height="40"/>
   </div>
-  <div align="center"class="column">
+  <div align="center" style="display: inline-block;padding: 6px 6px 6px 6px;">
     <h2 align="center">Major Libraries</h2>
     <img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
     &nbsp;&nbsp;
@@ -125,7 +125,7 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
     &nbsp;&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="pytorch" width="40" height="40"/>
   </div>
-  <div align="center" class="column">
+  <div align="center" style="display: inline-block;padding: 6px 6px 6px 6px;">
     <h2 align="center">Others</h2>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
