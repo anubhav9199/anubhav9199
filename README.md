@@ -63,8 +63,8 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
 - 💬 Ping Me about **#AI** (Paradise where i live), **#Python**, **#Machine_Learning**, **#Deep_Learning**, **#Data_Science**, **#Neural_Networks**, **#Computer_Vision**, **#Natural_Language_Processing** and **anything** you like.
 ---
 <!-- <div> -->
-# Technologies, Its in my blood
-<p>
+<h1 align="center">Technologies, Its in my blood</h1>
+<p align="center">
 <!-- <div style="display: inline-block;">
   <div style="display: inline-block;padding: 6px 6px 6px 6px;">
     <h2>Langauages</h2> -->
