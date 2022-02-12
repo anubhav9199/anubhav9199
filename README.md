@@ -31,12 +31,15 @@
   </div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <div align="right" style="display: inline-block;">
-    <p align="center">
+    <!-- <p align="center">
       <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="360" height="300">
-      <!-- <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="360" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> -->
-    </p>
+    </p> -->
   </div>
 </div>
+
+---
+
+First Header | Second Header———— | ————-Content from cell 1 | Content from cell 2Content in the first column | Content in the second column
 
 ---
 
@@ -48,7 +51,7 @@
 - 😄 I Make a Server to serve the Data Requests to the Client-side.
 - 😄 I love to teach Machine to Predict about Future whether Its any Disease or Forest Fire or Drowsiness Of Human
 - 🌱 I love working on Linux(Debian) Terminals and Python.
-- ⚡ I’m currently learning about MEN Stack
+- ⚡ I’m currently learning about MERN Stack
 - ⚡ I’m currently Working over My Secret Project ***(#I_am_Iron_Man)***.
 - 👯 And Many More...
 - I am a Professional Developer who loves to spend time with techy stuff and exploring new things and people.<br/>
