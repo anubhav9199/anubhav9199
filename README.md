@@ -1,60 +1,80 @@
 <!-- <link rel="stylesheet" type="text/css" href="style.css" /> -->
 <h1 align="center">Anubhav Sharma</h1>
 <hr/>
-<h2 align="center">Contact Me</h2>
-<p align="center">
-  <a href="https://twitter.com/anubhav9199" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anubhav9199" alt="anubhav9199" height="30" width="150" /></a>
-  &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/anubhav-sharma-as/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-sharma-as/" alt="anubhav9199" height="30" width="150" /></a>
-  &nbsp; &nbsp;
-  <a href="mailto:anubhavsharma9199@gmail.com" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anubhavsharma9199@gmail.com" alt="anubhav9199" height="30" width="150" /></a><br/>
-  <br/>
-  <a href="https://www.instagram.com/_anubhav_._/" target="blank" align="center"><img align="center" src="http://img.shields.io/badge/-Anubhav Sharma-rgb(255,105,180)?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_anubhav_._" alt="anubhav9199" height="30" width="150" /></a>
-  &nbsp; &nbsp;
-  <a href="https://www.facebook.com/anubhav9199/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/anubhav9199/" alt="anubhav9199" height="30" width="150" /></a>
-  &nbsp; &nbsp;
-  <a href="https://wa.me/918824897845" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(77,194,71)?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/918824897845/" alt="anubhav9199" height="30" width="150" /></a>
-  <br/>
-  <br/>
-  <a href="https://dev.to/anubhavsharma" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(0,0,0)?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/anubhavsharma/" alt="anubhav9199" height="30" width="150" /></a>
-</p>
-<hr/>
-<h2 align="center">My Work</h2>
-<p align="center">
-  <a href="https://www.kaggle.com/anubhavsharma/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(51,171,255)?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/anubhavsharma/"alt="%22anubhav9199" height="30" width="150" /></a>
-  &nbsp; &nbsp;
-  <a href="https://stackoverflow.com/users/13104627/anubhav-sharma/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(239,130,54)?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13104627/anubhav-sharma/" alt="%22anubhav9199" height="30" width="150" /></a>
-</p>
+
+<div align="center">
+  <div align="left" style="display: inline-block;">
+    <h2 align="center">Contact Me</h2>
+    <p align="center">
+      <a href="https://twitter.com/anubhav9199" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anubhav9199" alt="anubhav9199" height="30" width="150" /></a>
+      &nbsp; &nbsp;
+      <a href="https://www.linkedin.com/in/anubhav-sharma-as/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-sharma-as/" alt="anubhav9199" height="30" width="150" /></a>
+      <br/></br>
+      <a href="mailto:anubhavsharma9199@gmail.com" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anubhavsharma9199@gmail.com" alt="anubhav9199" height="30" width="150" /></a>
+      &nbsp; &nbsp;
+      <a href="https://www.instagram.com/_anubhav_._/" target="blank" align="center"><img align="center" src="http://img.shields.io/badge/-Anubhav Sharma-rgb(255,105,180)?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_anubhav_._" alt="anubhav9199" height="30" width="150" /></a>
+      </br>
+      </br>
+      <a href="https://www.facebook.com/anubhav9199/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/anubhav9199/" alt="anubhav9199" height="30" width="150" /></a>
+      &nbsp; &nbsp;
+      <a href="https://wa.me/918824897845" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(77,194,71)?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/918824897845/" alt="anubhav9199" height="30" width="150" /></a>
+      <br/>
+      <br/>
+      <a href="https://dev.to/anubhavsharma" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(0,0,0)?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/anubhavsharma/" alt="anubhav9199" height="30" width="150" /></a>
+    </p>
+    <h2 align="center">My Work</h2>
+    <p align="center">
+      <a href="https://www.kaggle.com/anubhavsharma/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(51,171,255)?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/anubhavsharma/"alt="%22anubhav9199" height="30" width="150" /></a>
+      &nbsp; &nbsp;
+      <a href="https://stackoverflow.com/users/13104627/anubhav-sharma/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(239,130,54)?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13104627/anubhav-sharma/" alt="%22anubhav9199" height="30" width="150" /></a>
+    </p>
+  </div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <div align="right" style="display: inline-block;">
+    <p align="center">
+      <!-- <img align="right" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="50%"> -->
+      <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="360" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    </p>
+  </div>
+</div>
 
 ---
-## Heya Tech Geeks 👋,           
-I'm Anubhav Sharma, a Backend Engineer at 👨‍💻 **MedCords HealthCare Solutions Pvt. Ltd.**.<br/>
-I am ***Machine Learning*** Enthusiast.<br/>
-I like to fix bugs whether technical or personal.<br/>
-I am a Professional Developer who loves to spend time with techy stuff and exploring new things and people.<br/>
-Basically, I'm a **chef coder** who creates algorithms from scratch and also cooks delicious food.<br/>
-* A future **AI** expert...💭
-* **IOT** wonderer.....❤️
-* **Robotics** passion...😅
-* Watch over **Markets**.....
-* **Political** news are on mind🧐
-* Good at **editing** thing in new ***style***.....
 
-Currently working on Server and Playing with APIs.<br/>
-Side work is on AI Stuff.<br/>
-Also, Play with Data and work with **Images** and **Voice**.<br/>
-
-A ***Backend Engineer***, A ***Data Analyst***, A ***Learner***, An ***Amazing Maker***, A ***work-o-holic*** guy when it comes to technical.....🤔😉
-
-## 🧐 About
-- 🔭 I am currently a working professional Backend Engineer at MedCords HealthCare Solutions Pvt. Ltd.
+## Hey Tech Geeks 👋, About Me 🧐
+- I'm Anubhav Sharma, a Fullstack Engineer at 👨‍💻 **uFaber EduTech Pvt. Ltd.**.
+- I am ***Machine Learning*** Enthusiast.
+- I like to fix bugs whether technical or personal.
 - 🏄‍ Community guy who loves being involved in communities and help people grow.
 - 😄 I Make a Server to serve the Data Requests to the Client-side.
 - 😄 I love to teach Machine to Predict about Future whether Its any Disease or Forest Fire or Drowsiness Of Human
 - 🌱 I love working on Linux(Debian) Terminals and Python.
-- ⚡ I’m currently learning about MEAN Stack
+- ⚡ I’m currently learning about MEN Stack
 - ⚡ I’m currently Working over My Secret Project ***(#I_am_Iron_Man)***.
 - 👯 And Many More...
+- I am a Professional Developer who loves to spend time with techy stuff and exploring new things and people.<br/>
+
+Basically, I'm a **chef coder** who creates algorithms from scratch and also cooks delicious food.<br/>
+<!-- * A future **AI** expert...💭
+* **IOT** wonderer.....❤️
+* **Robotics** passion...😅
+* Watch over **Markets**.....
+* **Political** news are on mind🧐
+* Good at **editing** thing in new ***style***..... -->
+
+Currently working on Frontend-Backend integration and Playing with APIs.<br/>
+Side work is on ML Stuff and learning Javascript<br/>
+Also, Play with Data and work with **Images** and **Voice**.<br/>
+<!-- 
+A ***Fullstack Engineer***, A ***Data Analyst***, A ***Learner***, An ***Amazing Maker***, A ***work-o-holic*** guy when it comes to technical.....🤔😉 -->
+
+<!-- ## 🧐 About Me
+- 🏄‍ Community guy who loves being involved in communities and help people grow.
+- 😄 I Make a Server to serve the Data Requests to the Client-side.
+- 😄 I love to teach Machine to Predict about Future whether Its any Disease or Forest Fire or Drowsiness Of Human
+- 🌱 I love working on Linux(Debian) Terminals and Python.
+- ⚡ I’m currently learning about MEN Stack
+- ⚡ I’m currently Working over My Secret Project ***(#I_am_Iron_Man)***.
+- 👯 And Many More... -->
 
 <h1 align="center">Hello World!! 🤔</h1>
 
