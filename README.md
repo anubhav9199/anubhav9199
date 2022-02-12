@@ -39,10 +39,6 @@
 
 ---
 
-First Header | Second Header———— | ————-Content from cell 1 | Content from cell 2Content in the first column | Content in the second column
-
----
-
 ## Hey Tech Geeks 👋, About Me 🧐
 - I'm Anubhav Sharma, a Fullstack Engineer at 👨‍💻 **uFaber EduTech Pvt. Ltd.**.
 - I am ***Machine Learning*** Enthusiast.
