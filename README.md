@@ -32,8 +32,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <div align="right" style="display: inline-block;">
     <p align="center">
-      <!-- <img align="right" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="50%"> -->
-      <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="360" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+      <img align="center" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%">
+      <!-- <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="360" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> -->
     </p>
   </div>
 </div>
